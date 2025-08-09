@@ -386,7 +386,7 @@ If you found this project helpful or interesting:
 
 <div align="center">
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Abdul Moeed**
 
 _Transforming ideas into elegant web applications_
 
